@@ -1,0 +1,5 @@
+D:\w\c#\QuestOfX\QuestOfX\bin\Debug\QuestOfX.exe
+D:\w\c#\QuestOfX\QuestOfX\bin\Debug\QuestOfX.pdb
+D:\w\c#\QuestOfX\QuestOfX\obj\Debug\QuestOfX.csprojAssemblyReference.cache
+D:\w\c#\QuestOfX\QuestOfX\obj\Debug\QuestOfX.exe
+D:\w\c#\QuestOfX\QuestOfX\obj\Debug\QuestOfX.pdb
